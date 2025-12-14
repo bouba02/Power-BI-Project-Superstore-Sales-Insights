@@ -86,8 +86,7 @@ Le tableau de bord permet de :
 
 ## 🧾 Auteur
 👤 **Nikiema Boubacar**  
-Fondateur de **Ngroup Media & Digital**  
+Fondateur de **Ngroup Media & Digital** 
 Diplomé en Master Big Data & Cloud Computing 
-📍 Maroc | 🌐 [LinkedIn]https://www.linkedin.com/in/boubacar-nikiema/ | 📊 Power BI Enthusiast
-"""
+📍 Maroc | 🌐 [LinkedIn]https://www.linkedin.com/in/boubacar-nikiema/
 
