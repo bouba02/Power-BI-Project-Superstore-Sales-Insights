@@ -1,4 +1,9 @@
-# Power-BI-Project-Superstore-Sales-Insights
+# Dashboard Retail : Analyse des Ventes
+## Secteur : Retail & Distribution | Outil : Power BI
+
+
+![ DASHBOARD RETAIL- ](DASHBOARD.png)
+
 
 
 ## 📌 Énoncé du problème
@@ -86,7 +91,8 @@ Le tableau de bord permet de :
 
 ## 🧾 Auteur
 👤 **Nikiema Boubacar**  
-Fondateur de **Ngroup Media & Digital** 
+Data Analyst
 Diplomé en Master Big Data & Cloud Computing 
-📍 Maroc | 🌐 [LinkedIn]https://www.linkedin.com/in/boubacar-nikiema/
+🌐 [LinkedIn]https://www.linkedin.com/in/boubacar-nikiema/
+Youtube: https://www.youtube.com/@BoubacarDataAnalyst
 
